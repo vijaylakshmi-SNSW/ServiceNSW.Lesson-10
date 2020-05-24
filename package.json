@@ -1,0 +1,25 @@
+{
+  "name": "servicenswlesson9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "File.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "console-app": "node ./src/ConsoleApp.js",
+    "generate": "node ./src/Generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeParkerTAFE/ServiceNSWLesson9.git"
+  },
+  "author": "Luke Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeParkerTAFE/ServiceNSWLesson9/issues"
+  },
+  "homepage": "https://github.com/LukeParkerTAFE/ServiceNSWLesson9#readme",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  }
+}
+
