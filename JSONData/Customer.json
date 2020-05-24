@@ -1,0 +1,44 @@
+[
+    {
+        "firstName": "Oliver",
+        "lastName": "Thompson",
+        "age": 37,
+        "id": "44a86b8b-8d82-4811-a54c-2ca5b74b2e89",
+        "customerId": "2246534"
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Smith",
+        "age": 40,
+        "id": "40fb93a7-f80e-4102-a77b-dde9ac7ca61e",
+        "customerId": "2365434"
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Thompson",
+        "age": 32,
+        "id": "9f66f819-2c61-4792-9284-53843dcd3a7b",
+        "customerId": "2245345"
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Smith",
+        "age": 44,
+        "id": "4a6bc15b-c0a5-44fd-9571-33f3b1329a81",
+        "customerId": "2254643"
+    },
+    {
+        "firstName": "Harsha",
+        "lastName": "Viji",
+        "age": 23,
+        "id": "519c75e8-a991-4554-bf44-76c5c25194d8",
+        "customerId": "2164276"
+    },
+    {
+        "firstName": "foll",
+        "lastName": "lov",
+        "age": 28,
+        "id": "9d273aa3-7bf7-457e-ad2e-812b8e0a5e3d",
+        "customerId": "483747"
+    }
+]
